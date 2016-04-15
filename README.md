@@ -10,5 +10,8 @@ Then create a virtualenv for tensorflow
 
 Install [TensorFlow](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#virtualenv-installation).
 
+To start working on TensorFlow project, Run
+
+    workon tensorflow
 
 
